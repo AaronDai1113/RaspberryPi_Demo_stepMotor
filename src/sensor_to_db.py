@@ -35,7 +35,7 @@ def step_motor(steps):
 
 # InfluxDB Configuration
 url = "http://localhost:8086"
-token = "CCytHUChfIEGCcczyz-fr3eAbwVLetZd6domxi39TNPTFA2hWfm3ltJXvs6dSJHYZ_SrRmrRFBtYT0hTFEAr7g=="  # Replace with your actual token
+token = "CCytHUChfIEGCcczyz-fr3eAbwVLetZd6domxi39TNPTFA2hWfm3ltJXvs6dSJHYZ_SrRmrRFBtYT0hTFEAr7g==" 
 org = "aaron"  
 bucket = "aaron"  
 
